@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ollie/Documents/Projects/Toadstool/Toadstool.csproj": {}
+  },
+  "projects": {
+    "/home/ollie/Documents/FNA/FNA.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ollie/Documents/FNA/FNA.Core.csproj",
+        "projectName": "FNA",
+        "projectPath": "/home/ollie/Documents/FNA/FNA.Core.csproj",
+        "packagesPath": "/home/ollie/.nuget/packages/",
+        "outputPath": "/home/ollie/Documents/FNA/obj_core/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ollie/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.123/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ollie/Documents/Projects/Toadstool/Toadstool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ollie/Documents/Projects/Toadstool/Toadstool.csproj",
+        "projectName": "Toadstool",
+        "projectPath": "/home/ollie/Documents/Projects/Toadstool/Toadstool.csproj",
+        "packagesPath": "/home/ollie/.nuget/packages/",
+        "outputPath": "/home/ollie/Documents/Projects/Toadstool/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ollie/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ollie/Documents/FNA/FNA.Core.csproj": {
+                "projectPath": "/home/ollie/Documents/FNA/FNA.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.123/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
