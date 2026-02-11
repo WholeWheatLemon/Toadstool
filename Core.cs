@@ -1,9 +1,9 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
-using Toadstool.Scene;
+using Toadstool.Scenes;
 
-namespace MonoGameLibrary;
+namespace Toadstool;
 
 public class Core : Game
 {
