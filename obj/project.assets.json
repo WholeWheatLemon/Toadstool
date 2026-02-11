@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "/home/ollie/.nuget/packages/": {}
+    "C:\\Users\\ollie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ollie/Documents/Projects/Toadstool/Toadstool.csproj",
+      "projectUniqueName": "C:\\Users\\ollie\\Documents\\Projects\\Toadstool\\Toadstool.csproj",
       "projectName": "Toadstool",
-      "projectPath": "/home/ollie/Documents/Projects/Toadstool/Toadstool.csproj",
-      "packagesPath": "/home/ollie/.nuget/packages/",
-      "outputPath": "/home/ollie/Documents/Projects/Toadstool/obj/",
+      "projectPath": "C:\\Users\\ollie\\Documents\\Projects\\Toadstool\\Toadstool.csproj",
+      "packagesPath": "C:\\Users\\ollie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ollie\\Documents\\Projects\\Toadstool\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ollie/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ollie\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/ollie/Documents/FNA/FNA.Core.csproj": {
-              "projectPath": "/home/ollie/Documents/FNA/FNA.Core.csproj"
+            "C:\\Users\\ollie\\Documents\\FNA\\FNA.Core.csproj": {
+              "projectPath": "C:\\Users\\ollie\\Documents\\FNA\\FNA.Core.csproj"
             }
           }
         }
@@ -61,6 +61,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -82,7 +87,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.123/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

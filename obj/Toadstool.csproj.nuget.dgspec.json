@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ollie/Documents/Projects/Toadstool/Toadstool.csproj": {}
+    "C:\\Users\\ollie\\Documents\\Projects\\Toadstool\\Toadstool.csproj": {}
   },
   "projects": {
-    "/home/ollie/Documents/FNA/FNA.Core.csproj": {
+    "C:\\Users\\ollie\\Documents\\FNA\\FNA.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ollie/Documents/FNA/FNA.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ollie\\Documents\\FNA\\FNA.Core.csproj",
         "projectName": "FNA",
-        "projectPath": "/home/ollie/Documents/FNA/FNA.Core.csproj",
-        "packagesPath": "/home/ollie/.nuget/packages/",
-        "outputPath": "/home/ollie/Documents/FNA/obj_core/",
+        "projectPath": "C:\\Users\\ollie\\Documents\\FNA\\FNA.Core.csproj",
+        "packagesPath": "C:\\Users\\ollie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ollie\\Documents\\FNA\\obj_core\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ollie/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ollie\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,21 +58,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.123/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ollie/Documents/Projects/Toadstool/Toadstool.csproj": {
+    "C:\\Users\\ollie\\Documents\\Projects\\Toadstool\\Toadstool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ollie/Documents/Projects/Toadstool/Toadstool.csproj",
+        "projectUniqueName": "C:\\Users\\ollie\\Documents\\Projects\\Toadstool\\Toadstool.csproj",
         "projectName": "Toadstool",
-        "projectPath": "/home/ollie/Documents/Projects/Toadstool/Toadstool.csproj",
-        "packagesPath": "/home/ollie/.nuget/packages/",
-        "outputPath": "/home/ollie/Documents/Projects/Toadstool/obj/",
+        "projectPath": "C:\\Users\\ollie\\Documents\\Projects\\Toadstool\\Toadstool.csproj",
+        "packagesPath": "C:\\Users\\ollie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ollie\\Documents\\Projects\\Toadstool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ollie/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ollie\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -79,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/ollie/Documents/FNA/FNA.Core.csproj": {
-                "projectPath": "/home/ollie/Documents/FNA/FNA.Core.csproj"
+              "C:\\Users\\ollie\\Documents\\FNA\\FNA.Core.csproj": {
+                "projectPath": "C:\\Users\\ollie\\Documents\\FNA\\FNA.Core.csproj"
               }
             }
           }
@@ -89,6 +94,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -110,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.123/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
