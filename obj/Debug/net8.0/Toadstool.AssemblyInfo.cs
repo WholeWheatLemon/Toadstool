@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Toadstool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+151e50cdbda5d403b3c88d242ace16562b294302")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+334f9c935abf745167c8d25def9e2fbf32738bc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Toadstool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Toadstool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
